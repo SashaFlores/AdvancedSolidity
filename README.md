@@ -135,33 +135,56 @@ Add Custom Tokens (PUPCOIN) to Metamask wallet that will then give an overview o
 
 #### 1.5.4: Custom Token in MyCrypto 
 
-Add Custom Token in MyCrypto to reflect new balance
+Add Custom Token in MyCrypto to reflect the new balance
+
+
 ![](Images/5.JPG)
 
 
 
-
+-------------
 
 
 ## Resources
 
-[MetaMask](https://metamask.io/)
-[Remix](http://remix.ethereum.org/)
-[State of the apps](https://www.stateofthedapps.com/)
-[Dapps](https://medium.com/fluence-network/dapp-survey-results-2019-a04373db6452)
-[Decenteralized Apps](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
-[Ethereum](https://ethereum.org/en/)
-[Enterprise Ethereum Alliance](https://entethalliance.org/members/)
-[Bitcoin Testnet Tokens](https://bitcoinfaucet.uo1.net/)
-[Bitcoin Testnet Tokens](https://kuttler.eu/en/bitcoin/btc/faucet/)
-[Bitcoin Testnet Tokens](https://testnet-faucet.mempool.co/)
-[Bitcoin Testnet Tokens](https://testnet.help/en/btcfaucet/testnet)
-[Open Zeppelin Docs](https://docs.openzeppelin.com/contracts/2.x/tokens)
-[Buy, play, sell, & earn ETH](https://www.cryptokitties.co/)
-[Ethereum Improvement Proposals](https://eips.ethereum.org/)
-[Crowdsale Docs](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale#Crowdsale-constructor-uint256-address-payable-contract-IERC20-)
-[Smart Contract Security - MythX](https://mythx.io/)
-[Security analysis tool for EVM](https://github.com/ConsenSys/mythril)
-[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)
-[Smart Contract Vulnerability Coverage](https://mythx.io/detectors/)
-[Top 50 Biggest ICOs of All Time](https://www.coinist.io/biggest-icos-chart/)
+- you can sign-up in [MetaMask App](https://metamask.io/)
+  
+- your server to delpoy smart contracts build on Ethereum using [Remix](http://remix.ethereum.org/)
+  
+- Explore Decentralized Appliactions at [State of the apps](https://www.stateofthedapps.com/)
+  
+- Definition, concept, and components of [Dapps](https://medium.com/fluence-network/dapp-survey-results-2019-a04373db6452)
+  
+- The General Theory of Decentralized Applications [GitHub](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
+  
+- On Ethereum, you can write code that controls digital value, runs exactly as programmed, and is accessible anywhere in the world. [Ethereum Enterprise](https://ethereum.org/en/)
+  
+- Empower Your Future: Join EEA’s Fast-Growing Global Community [Enterprise Ethereum Alliance](https://entethalliance.org/members/)
+  
+- To prefund your wallet on Bitcoin Testnet:
+  
+  - [Bitcoin Testnet Tokens](https://bitcoinfaucet.uo1.net/)
+  
+  - [Bitcoin Testnet Tokens](https://kuttler.eu/en/bitcoin/btc/faucet/)
+  
+  - [Bitcoin Testnet Tokens](https://testnet-faucet.mempool.co/)
+  
+  - [Bitcoin Testnet Tokens](https://testnet.help/en/btcfaucet/testnet)
+- 
+- OpenZeppelin provides security products to build, automate, and operate decentralized applications [Open Zeppelin Docs](https://docs.openzeppelin.com/contracts/2.x/tokens)
+  
+- Start Your Digital Cat Collection Game [CryptoKitties](https://www.cryptokitties.co/)
+  
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/)  (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards. Contributing. 
+  
+- Crowdsale is a base contract for managing a token crowdsale, allowing investors to purchase tokens with ether. [Crowdsale Docs](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale#Crowdsale-constructor-uint256-address-payable-contract-IERC20-)
+  
+- Smart contract security service for Ethereum [ MythX](https://mythx.io/)
+  
+- [Mythril - GitHub](https://github.com/ConsenSys/mythril) is a security analysis tool for EVM bytecode and detects security vulnerabilities in smart contracts.
+  
+- An overview of the Smart Contract Weakness Classification and Test Cases [SWC Registry](https://swcregistry.io/)
+  
+- [Mythx Detectors](https://mythx.io/detectors/)detects most Smart Contract Weakness Classification (SWCs) found in the SWC Registry.
+  
+-  the Coinist Biggest ICO Index that is made up of the 50 biggest, most successful ICOs [Top 50 Biggest ICOs of All Time](https://www.coinist.io/biggest-icos-chart/)
