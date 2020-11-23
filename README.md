@@ -17,8 +17,10 @@ Table of Contents:
         - [1.5.3: Add Custom Tokens in Metamask](#153-custom-tokens-metamask)
         -  [1.5.4: Custom Token in MyCrypto ](#154-custom-token-in-mycrypto)
 - [Resources](#resources)
+----------------------------------------
 
-![crowd](https://image.shutterstock.com/image-photo/group-people-holding-cigarette-lighters-600w-687342115.jpg)
+
+![crowd](https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2019/01/Shutterstock-campaign-1260x840.png)
 
 ## Background
 
