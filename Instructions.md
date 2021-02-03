@@ -152,13 +152,5 @@ Add Custom Token in MyCrypto to reflect the new balance
 
   
 
-- To prefund your wallet on Bitcoin Testnet:
-  
-  - [Bitcoin Testnet Tokens](https://bitcoinfaucet.uo1.net/)
-  
-  - [Bitcoin Testnet Tokens](https://kuttler.eu/en/bitcoin/btc/faucet/)
-  
-  - [Bitcoin Testnet Tokens](https://testnet-faucet.mempool.co/)
-  
-  - [Bitcoin Testnet Tokens](https://testnet.help/en/btcfaucet/testnet)
+
 
